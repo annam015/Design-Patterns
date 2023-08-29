@@ -1,0 +1,1 @@
+Currently, the system allows the hospitalization of all people, whether they have medical insurance or not, but the hospital wants to admit only people who have medical insurance. Implement this functionality using the Proxy design pattern.

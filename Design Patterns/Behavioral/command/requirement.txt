@@ -1,0 +1,1 @@
+Bank operators can give certain orders on bank accounts: withdraw and deposit. Using the Command design pattern, implement the module that allows operators to send commands to bank accounts. Given orders can be cancelled at any time (the module should have an undo option).

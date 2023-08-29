@@ -1,0 +1,1 @@
+ATM cash withdrawals are made after the following steps: insert the card, insert the PIN code, specify the requested amount, withdraw the money from the ATM and finally receive the receipt. Implement the module that performs this algorithm using the Template design pattern.

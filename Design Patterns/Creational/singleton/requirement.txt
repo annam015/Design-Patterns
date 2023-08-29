@@ -1,0 +1,1 @@
+Implement the Singleton design pattern for the Santa Claus class.

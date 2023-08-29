@@ -1,0 +1,1 @@
+The hospital wants to notify all patients who have been in the hospital whenever there is an emergency regarding the existing viruses in the city. Implement a module that sends notifications to all  subscribers when a new epidemic or virus appears.

@@ -1,0 +1,2 @@
+The hospital staff is of several types. These types are saved in a
+enum { Pharmacist, Nurse, Doctor }. Implement the Simple Factory design pattern so the program creates objects from the HospitalStaff family according to the type received as a parameter.

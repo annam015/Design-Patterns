@@ -1,0 +1,1 @@
+When a customer wants to buy medicine, the pharmacist must check customer prescription, the availability of the requested medication and the client's health card. The pharmacist must perform these checks in three different locations. Implement a module within the application that allows the pharmacist to perform the 3 checks in one place (Facade design pattern).

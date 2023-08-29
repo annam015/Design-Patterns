@@ -1,0 +1,1 @@
+Develop a module that employs the Command design pattern to enable restaurant staff to manage menu items, including adding new items, modifying existing items, and removing items.

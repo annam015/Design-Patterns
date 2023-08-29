@@ -1,0 +1,1 @@
+A travel agency has several packages. They often change their price, depending on the offers of the day or the demand for tourist packages. The agency wants to implement a module whereby these prices can be saved, so that a return to a certain price previously used is allowed. Implement this module using the Memento design pattern.

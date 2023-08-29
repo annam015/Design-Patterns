@@ -1,0 +1,1 @@
+Implement the Singleton Registry design pattern so that the program stores information about employees - name and year of employment.

@@ -1,0 +1,1 @@
+The restaurant purchased a new software for printing orders from the bar. However, it is not compatible with the printing software used in the kitchen. Implement the Adapter design pattern so that the new software can be used with the existing software, without changing the code in any application.

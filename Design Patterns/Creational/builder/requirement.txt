@@ -1,0 +1,2 @@
+In hospital, every patient has the possibility to pay extra for certain facilities such as: folding bed, breakfast, slippers, robe. If the patient does not choose these extra facilities, within the application they are set to false. 
+Implement the Builder design pattern so the program ensures the creation of objects of the patient type with extra options.

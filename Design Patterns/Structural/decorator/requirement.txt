@@ -1,0 +1,2 @@
+The company wants to add a new functionality to the system: when printing tickets for football matches, a message of support for the team that owns the stadium where the match is taking place should also be printed, if that team is playing. For the rest of the tickets, they remain the same.
+Implement this functionality using the Decorator design pattern.

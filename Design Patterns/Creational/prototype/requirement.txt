@@ -1,0 +1,1 @@
+Implement the Prototype design pattern within the application so that if a client already has a bank account and wants to open a new account, the new account will be created without data reconstruction about that client.
